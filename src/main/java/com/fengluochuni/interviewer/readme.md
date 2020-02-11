@@ -1,7 +1,7 @@
 ##Java面试题汇总
 
 ###Java基础
-Java语法    
+[Java语法](basices/grammar.md)  
 容器  
 多线程  
 反射  
@@ -25,3 +25,6 @@ Zookeper
 ####数据库
 Mysql  
 Redis  
+
+
+[dasg]: file:///basices/grammar.md
